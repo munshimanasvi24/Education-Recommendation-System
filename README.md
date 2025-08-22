@@ -82,15 +82,7 @@ Build API endpoints for external integration
 
 Deploy with Docker/Kubernetes for scalability
 
-🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
-
-📄 License
-
-This project is licensed under the MIT License.
 
 
----
 
-Do you want me to also **add screenshots/demo GIF placeholders** in this README (like showing the form page and the results page), so it looks more polished on GitHub?
+
